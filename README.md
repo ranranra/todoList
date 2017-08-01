@@ -1,2 +1,2 @@
 # todoList
-react+mongoose
+react+express+mongoose
